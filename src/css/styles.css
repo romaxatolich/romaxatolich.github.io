@@ -1,0 +1,375 @@
+body{
+    margin: 0;
+}
+header{
+    height: 60px;
+    background-color: #344051;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.andrew, nav{
+    float: left;
+}
+.andrew{
+    margin-left: 348px;
+    line-height: 60px;
+}
+nav{
+   
+    display: block;
+    text-transform: uppercase;
+    margin-left: 430px;
+    font-size: 15px;
+    line-height: 60px;
+}
+nav div{
+    display: inline-block;
+    margin-right: 30px;
+}
+.upper{
+    background: url("../img/парень.png") 90% 100%/ auto 85% no-repeat, url("../img/фон.png");
+    border: solid 0.1px;    
+    height: 1020px;
+
+}
+.first{
+    margin-top: 430px;
+    width: 50%;
+    text-align: center;
+}
+.first button{
+    background: none;
+    size: 43px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding: 20px 20px;
+    color: #79818d;
+    border: solid 2px #79818d;
+    border-radius: 5px;
+    margin: 60px 15px 0px 15px;
+}
+h1{
+    color: #2c384a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+h4{
+    margin-top: 40px;
+    color: #79818d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 200;
+}
+h2{
+    font-size: 22px;
+    color: #2c384a;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+hr{
+    background-color: #d17700;
+    height: 3px;
+    width: 70px;
+    border-radius: 10px;
+    margin-top: 35px;
+}
+.aboutme h2{
+    margin-top: 105px;
+}
+.aboutme div{
+    width: 735px;
+    margin-left: 400px;
+    color: #79818d;
+}
+.aboutme button{
+    border-radius: 3px;
+    border: solid 2px #79818d;
+    background: none;
+    font-size: 18px;
+    color: #79818d;
+    padding: 5px 10px;
+    margin: 40px 0px 95px 0px;
+}
+.aboutme .btn{
+    text-align: center;
+}
+.aboutme .img{
+    margin-top: 60px;
+    text-align: center;
+}
+.skills{
+    background: url("../img/skillsphone.png");
+    display: block;
+    text-align: center;
+}
+.skills div{
+    display: inline-block;
+    height: 180px;
+    width: 210px;
+    margin: 95px 40px 90px 40px;
+}
+.skills h2{
+    padding-top: 100px;
+}
+.skills h4{
+    color: #d17700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 200;
+}
+.skills p{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #79818d;
+}
+.skills img{
+    height: 45px;
+    width: 55px;
+}
+.cases{
+    margin-top: 110px;
+}
+.cases p{
+    margin: 40px 0px 40px 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #79818d;
+    text-align: center;
+}
+.slider{
+    width: 1170px;
+    height: 620px;
+    border: solid 2px green;
+    margin-left: 200px;
+}
+.information{
+    margin-left: 200px;
+    display: block;
+}
+.information div{
+    display: inline-block;
+    vertical-align: top;
+}
+.client-website{
+    margin-top: 37px;
+}
+.client-website h3{
+    margin: 0;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+.client-website p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: 14px 0px 14px 0px;
+    text-align: left;
+}
+.client-website button{
+    height: 50px;
+    width: 200px;
+    background-color: #63b5ae;
+    border: none;
+    border-radius: 5px;
+}
+.project-name h3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.project-name p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: 14px 0px 14px 0px;
+    text-align: left;
+}
+.project-name{
+    width: 860px;
+    height: 150px;
+    margin: 20px 0px 0px 75px;
+}
+.price p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-transform: uppercase;
+}
+.price{
+    height: 890px;
+}
+.price select{
+    height: 55px;
+    width: 890px;
+    background-color: #eeeeee;
+    border: none;
+    padding: 20px 20px;
+    margin-bottom: 50px;
+}
+.price hr{
+    width: 100%;
+    background-color: #eee;
+    height: 1px;
+}
+.calculator{
+    margin: 50px 350px;
+    display: block;
+    width: 890px;
+}
+.calculator div{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 400;
+    display: inline-block;
+}
+.left{
+    float: left;
+}
+.right{
+    text-align: right;
+}
+.statistic{
+    background: url("../img/statisticphone.png");
+    height: 500px;
+    display: block;
+    text-align: center;
+}
+.statistic h2{
+    padding-top: 100px;
+}
+.statistic div{
+    display: inline-block;
+    width: 175px;
+    height: 155px;
+    margin: 80px 75px 0px 75px;
+}
+.statistic img{
+    width: 60px;
+    height: 55px;
+}
+.statistic h4{
+    color: #323e4f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+}
+.statistic p{
+    color: #323e4f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 400;   
+}
+.reviews{
+    height: 590px;
+}
+.reviews h2{
+    margin-top: 70px;
+}
+.slide{
+    margin-top: 55px;
+    text-align: center;
+    color: #323e4f;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.slide p{
+    margin-top: 35px;
+}
+.slide img{
+    height: 100px;
+    width: 110px;
+}
+.contacts{
+    background: url("../img/contactsphone.png") no-repeat 52% 90%;
+    background-color: #111a2b;
+    text-align: center;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.adresses, .feedback, .icons{
+    display: block;
+}
+.adresses div{
+    text-align: center;
+    vertical-align: top;
+    margin: 40px 15px 0px 15px;
+    display: inline-block;
+    width: 135px;
+    height: 80px;
+}
+.contacts h2{
+    color: #fff;
+    font-size: 30px;   
+}
+.contacts p{
+    font-size: 12px;
+}
+.no-understantable{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.contacts img{
+    width: 30px;
+    height: 27px;
+}
+.contacts h4{
+    color: #fff;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: 550;
+    
+}
+.feedback input, .icons img{
+    display: inline-block;
+}
+.feedback input{
+    padding-left: 10px;
+    width: 355px;
+    height: 35px;
+    margin: 15px;
+    background-color: rgba(210, 214, 220, 0.8);
+    border: none;
+}
+textarea{
+    padding: 10px 10px;
+    width: 750px;
+    height: 95px;
+    background-color: rgba(210, 214, 220, 0.8);
+    border: none;
+}
+.feedback button{
+    font-size: 16px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    background: none;
+    margin: 30px 0px 70px 0px;
+    padding: 15px;
+    border: solid 2px #fff;
+    border-radius: 5px;
+    font-weight: 500;
+}
+.icons img{
+    width: 29px;
+    height: 29px;
+    margin: 0px 29px 60px 18px;
+}
+map{
+    height: 355px;
+}
+footer{
+    height: 90px;
+    text-align: center;
+    background-color: #354051;
+    color: #fff;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer p{
+    padding-top: 40px;
+}
